@@ -1,5 +1,6 @@
 var homepage = (req,res)=>{
-    res.render('index',{title:'Santhosh-23EG107E01'});
+    res.render('index',{title:'ASRITHA
+        -23EG107E05'});
 };
 
 var location = (req,res)=>{
